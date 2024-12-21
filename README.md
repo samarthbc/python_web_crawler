@@ -19,7 +19,7 @@ Python Web Crawler is a lightweight and efficient tool designed to fetch article
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/unknownalien1/python_web_crawler.git
+   git clone https://github.com/samarthbc/python_web_crawler.git
    ```
 2. Navigate to the project directory:
    ```bash
